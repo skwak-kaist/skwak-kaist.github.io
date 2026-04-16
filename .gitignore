@@ -21,3 +21,9 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Source CV materials (copies are placed under files/ and images/ for the site)
+cv/
+
+# Claude Code local settings
+.claude/
