@@ -35,30 +35,30 @@ Education
 <div style="display:flex; align-items:center; margin-bottom:22px;">
   <img src="/images/kaist.png" style="width:80px; height:auto; margin-right:22px; flex-shrink:0;">
   <div style="flex:1;">
-    <span style="color:#1f3a68; font-weight:700;">Ph.D.</span> in Electrical Engineering, KAIST<br>
-    <span style="color:#555; font-size:0.9em;">Advisor: Prof. Munchurl Kim (<a href="https://www.viclab.kaist.ac.kr/">VICLab</a>)</span>
+    Ph.D. in Electrical Engineering, KAIST<br>
+    <span style="color:#555;">Advisor: Prof. Munchurl Kim (<a href="https://www.viclab.kaist.ac.kr/">VICLab</a>)</span>
   </div>
-  <div style="text-align:right; white-space:nowrap; color:#555;">Mar. 2021 &ndash; Feb. 2026</div>
+  <div style="text-align:right; white-space:nowrap; color:#555; font-size:0.9em;">Mar. 2021 &ndash; Feb. 2026</div>
 </div>
 
 <div style="display:flex; align-items:center; margin-bottom:22px;">
   <img src="/images/kaist.png" style="width:80px; height:auto; margin-right:22px; flex-shrink:0;">
   <div style="flex:1;">
-    <span style="color:#1f3a68; font-weight:700;">M.S.</span> in Electrical Engineering, KAIST<br>
-    <span style="color:#555; font-size:0.9em;">Advisor: Prof. Youngchul Sung (<a href="https://sites.google.com/view/sisrelkaist">SISREL</a>)</span>
+    M.S. in Electrical Engineering, KAIST<br>
+    <span style="color:#555;">Advisor: Prof. Youngchul Sung (<a href="https://sites.google.com/view/sisrelkaist">SISREL</a>)</span>
   </div>
-  <div style="text-align:right; white-space:nowrap; color:#555;">Mar. 2012 &ndash; Feb. 2014</div>
+  <div style="text-align:right; white-space:nowrap; color:#555; font-size:0.9em;">Mar. 2012 &ndash; Feb. 2014</div>
 </div>
 
 <div style="display:flex; align-items:center; margin-bottom:22px;">
   <img src="/images/yonsei.png" style="width:80px; height:auto; margin-right:22px; flex-shrink:0;">
   <div style="flex:1;">
-    <span style="color:#1f3a68; font-weight:700;">B.S.</span> in Electrical and Electronic Engineering, Yonsei University
+    B.S. in Electrical and Electronic Engineering, Yonsei University
   </div>
-  <div style="text-align:right; white-space:nowrap; color:#555;">Mar. 2008 &ndash; Feb. 2012</div>
+  <div style="text-align:right; white-space:nowrap; color:#555; font-size:0.9em;">Mar. 2008 &ndash; Feb. 2012</div>
 </div>
 
-<div style="margin-top:36px;"></div>
+<hr style="border:none; border-top:1px solid #e5e5e5; margin:36px 0;">
 
 Experience
 ======
@@ -67,7 +67,7 @@ Experience
   <div style="display:flex; align-items:center; margin-bottom:10px;">
     <img src="/images/ETRI.png" style="width:80px; height:auto; margin-right:22px; flex-shrink:0;">
     <div style="flex:1;">Senior Researcher, Media Research Division, ETRI</div>
-    <div style="text-align:right; white-space:nowrap; color:#555;">Mar. 2014 &ndash; Present</div>
+    <div style="text-align:right; white-space:nowrap; color:#555; font-size:0.9em;">Mar. 2014 &ndash; Present</div>
   </div>
   <ul style="margin:0; padding-left:24px; font-size:0.95em;">
     <li>Spatial Computing Technologies for ultra-realistic metaverse services (MIV, NeRF, 3DGS) [<a href="https://www.youtube.com/watch?v=uzxlxQRPT4g">video</a>]</li>
@@ -76,7 +76,7 @@ Experience
   </ul>
 </div>
 
-<div style="margin-top:36px;"></div>
+<hr style="border:none; border-top:1px solid #e5e5e5; margin:36px 0;">
 
 Selected Publications
 ======

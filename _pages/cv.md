@@ -62,7 +62,6 @@ Awards & Honors
 
 Publications
 ======
-A full list is available on the [Publications](/publications/) page.
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
