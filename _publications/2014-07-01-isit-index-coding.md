@@ -3,7 +3,6 @@ title: "An Extended Least Difference Greedy Clique-Cover Algorithm for Index Cod
 collection: publications
 category: conferences
 permalink: /publication/2014-07-01-isit-index-coding
-excerpt: 'ISIT 2014 (Oral). Extended least difference greedy clique-cover algorithm for index coding.'
 date: 2014-07-01
 venue: '2014 IEEE International Symposium on Information Theory (ISIT), Oral'
 citation: '<b>S. Kwak</b>, J. So, Y. Sung, &quot;An Extended Least Difference Greedy Clique-Cover Algorithm for Index Coding,&quot; in <i>2014 IEEE International Symposium on Information Theory (ISIT)</i>, Jul. 2014. (Oral)'

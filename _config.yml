@@ -26,9 +26,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Sangwoon Kwak"
   pronouns         : # example: "she/her"
-  bio              : "Senior Researcher at ETRI &middot; Ph.D. in Electrical Engineering, KAIST"
+  bio              : "Senior Researcher at ETRI &middot; Ph.D."
   location         : "Daejeon, Korea"
-  employer         : "ETRI (Electronics and Telecommunications Research Institute)"
+  employer         : "ETRI"
   uri              : # URL
   email            : "s.kwak@etri.re.kr"
 
@@ -84,10 +84,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  manuscripts:
-    title: 'Journal Articles'
   conferences:
     title: 'International Conferences'
+  manuscripts:
+    title: 'Journal Articles'
   domestics:
     title: 'Domestic Journals and Conferences'
 
