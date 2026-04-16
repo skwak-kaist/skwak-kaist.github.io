@@ -67,7 +67,7 @@ Experience
 <div style="display:flex; align-items:center; margin-bottom:22px;">
   <img src="/images/ETRI.png" style="width:80px; height:auto; margin-right:22px; flex-shrink:0;">
   <div style="flex:1;">
-    Senior Researcher, Media Research Division, ETRI
+    <span style="color:#1f3a68; font-weight:700;">Senior Researcher</span>, Media Research Division, ETRI
     <ul style="margin:6px 0 0 0; font-size:0.95em;">
       <li>Spatial Computing Technologies for ultra-realistic metaverse services (MIV, NeRF, 3DGS) [<a href="https://www.youtube.com/watch?v=uzxlxQRPT4g">video</a>]</li>
       <li>Video Coding for Machines (international standardization at ISO/IEC JTC1/SC29 MPEG)</li>
