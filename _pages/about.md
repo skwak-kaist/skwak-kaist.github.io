@@ -35,8 +35,8 @@ Education
 <div style="display:flex; align-items:center; margin-bottom:22px;">
   <img src="/images/kaist.png" style="width:80px; height:auto; margin-right:22px; flex-shrink:0;">
   <div style="flex:1;">
-    Ph.D. in Electrical Engineering, KAIST<br>
-    <span style="color:#555;">Advisor: Prof. Munchurl Kim (<a href="https://www.viclab.kaist.ac.kr/">VICLab</a>)</span>
+    <span style="color:#1f3a68; font-weight:700;">Ph.D.</span> in Electrical Engineering, KAIST<br>
+    <span style="color:#555; font-size:0.9em;">Advisor: Prof. Munchurl Kim (<a href="https://www.viclab.kaist.ac.kr/">VICLab</a>)</span>
   </div>
   <div style="text-align:right; white-space:nowrap; color:#555; font-size:0.9em;">Mar. 2021 &ndash; Feb. 2026</div>
 </div>
@@ -44,8 +44,8 @@ Education
 <div style="display:flex; align-items:center; margin-bottom:22px;">
   <img src="/images/kaist.png" style="width:80px; height:auto; margin-right:22px; flex-shrink:0;">
   <div style="flex:1;">
-    M.S. in Electrical Engineering, KAIST<br>
-    <span style="color:#555;">Advisor: Prof. Youngchul Sung (<a href="https://sites.google.com/view/sisrelkaist">SISREL</a>)</span>
+    <span style="color:#1f3a68; font-weight:700;">M.S.</span> in Electrical Engineering, KAIST<br>
+    <span style="color:#555; font-size:0.9em;">Advisor: Prof. Youngchul Sung (<a href="https://sites.google.com/view/sisrelkaist">SISREL</a>)</span>
   </div>
   <div style="text-align:right; white-space:nowrap; color:#555; font-size:0.9em;">Mar. 2012 &ndash; Feb. 2014</div>
 </div>
@@ -53,27 +53,27 @@ Education
 <div style="display:flex; align-items:center; margin-bottom:22px;">
   <img src="/images/yonsei.png" style="width:80px; height:auto; margin-right:22px; flex-shrink:0;">
   <div style="flex:1;">
-    B.S. in Electrical and Electronic Engineering, Yonsei University
+    <span style="color:#1f3a68; font-weight:700;">B.S.</span> in Electrical and Electronic Engineering, Yonsei University
   </div>
   <div style="text-align:right; white-space:nowrap; color:#555; font-size:0.9em;">Mar. 2008 &ndash; Feb. 2012</div>
 </div>
 
-<hr style="border:none; border-top:1px solid #e5e5e5; margin:36px 0;">
+<div style="margin-top:36px;"></div>
 
 Experience
 ======
 
-<div style="margin-bottom:22px;">
-  <div style="display:flex; align-items:center; margin-bottom:10px;">
-    <img src="/images/ETRI.png" style="width:80px; height:auto; margin-right:22px; flex-shrink:0;">
-    <div style="flex:1;">Senior Researcher, Media Research Division, ETRI</div>
-    <div style="text-align:right; white-space:nowrap; color:#555; font-size:0.9em;">Mar. 2014 &ndash; Present</div>
+<div style="display:flex; align-items:center; margin-bottom:22px;">
+  <img src="/images/ETRI.png" style="width:80px; height:auto; margin-right:22px; flex-shrink:0;">
+  <div style="flex:1;">
+    Senior Researcher, Media Research Division, ETRI
+    <ul style="margin:6px 0 0 0; font-size:0.95em;">
+      <li>Spatial Computing Technologies for ultra-realistic metaverse services (MIV, NeRF, 3DGS) [<a href="https://www.youtube.com/watch?v=uzxlxQRPT4g">video</a>]</li>
+      <li>Video Coding for Machines (international standardization at ISO/IEC JTC1/SC29 MPEG)</li>
+      <li>Light field view synthesis &amp; rendering for 6DoF immersive video [<a href="https://www.youtube.com/watch?v=GlxDzBjNrI0&feature=youtu.be">video</a>]</li>
+    </ul>
   </div>
-  <ul style="margin:0; padding-left:24px; font-size:0.95em;">
-    <li>Spatial Computing Technologies for ultra-realistic metaverse services (MIV, NeRF, 3DGS) [<a href="https://www.youtube.com/watch?v=uzxlxQRPT4g">video</a>]</li>
-    <li>Video Coding for Machines (international standardization at ISO/IEC JTC1/SC29 MPEG)</li>
-    <li>Light field view synthesis &amp; rendering for 6DoF immersive video [<a href="https://www.youtube.com/watch?v=GlxDzBjNrI0&feature=youtu.be">video</a>]</li>
-  </ul>
+  <div style="text-align:right; white-space:nowrap; color:#555; font-size:0.9em;">Mar. 2014 &ndash; Present</div>
 </div>
 
 <hr style="border:none; border-top:1px solid #e5e5e5; margin:36px 0;">
