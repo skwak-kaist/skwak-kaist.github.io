@@ -64,17 +64,19 @@ Education
 Experience
 ======
 
-<div style="display:flex; align-items:center; margin-bottom:22px;">
-  <img src="/images/ETRI.png" style="width:80px; height:auto; margin-right:22px; flex-shrink:0;">
-  <div style="flex:1;">
-    <span style="color:#1f3a68; font-weight:700;">Senior Researcher</span>, Media Research Division, ETRI
-    <ul style="margin:6px 0 0 0; font-size:0.95em;">
-      <li>Spatial Computing Technologies for ultra-realistic metaverse services (MIV, NeRF, 3DGS) [<a href="https://www.youtube.com/watch?v=uzxlxQRPT4g">video</a>]</li>
-      <li>Video Coding for Machines (international standardization at ISO/IEC JTC1/SC29 MPEG)</li>
-      <li>Light field view synthesis &amp; rendering for 6DoF immersive video [<a href="https://www.youtube.com/watch?v=GlxDzBjNrI0&feature=youtu.be">video</a>]</li>
-    </ul>
+<div style="margin-bottom:22px;">
+  <div style="display:flex; align-items:center; margin-bottom:10px;">
+    <img src="/images/ETRI.png" style="width:80px; height:auto; margin-right:22px; flex-shrink:0;">
+    <div style="flex:1;">
+      <span style="color:#1f3a68; font-weight:700;">Senior Researcher</span>, Media Research Division, ETRI
+    </div>
+    <div style="text-align:right; white-space:nowrap; color:#555; font-size:0.9em;">Mar. 2014 &ndash; Present</div>
   </div>
-  <div style="text-align:right; white-space:nowrap; color:#555; font-size:0.9em;">Mar. 2014 &ndash; Present</div>
+  <ul style="margin:0; padding-left:24px; font-size:0.9em;">
+    <li>Spatial Computing Technologies for ultra-realistic metaverse services (MIV, NeRF, 3DGS) [<a href="https://www.youtube.com/watch?v=uzxlxQRPT4g">video</a>]</li>
+    <li>Video Coding for Machines (international standardization at ISO/IEC JTC1/SC29 MPEG)</li>
+    <li>Light field view synthesis &amp; rendering for 6DoF immersive video [<a href="https://www.youtube.com/watch?v=GlxDzBjNrI0&feature=youtu.be">video</a>]</li>
+  </ul>
 </div>
 
 <hr style="border:none; border-top:1px solid #e5e5e5; margin:36px 0;">
