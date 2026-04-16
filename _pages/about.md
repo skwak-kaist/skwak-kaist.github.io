@@ -63,8 +63,8 @@ Education
 Experience
 ======
 
-<div style="display:flex; align-items:flex-start; margin-bottom:22px;">
-  <img src="/images/ETRI.png" style="width:80px; height:auto; margin-right:22px; margin-top:4px; flex-shrink:0;">
+<div style="display:flex; align-items:center; margin-bottom:22px;">
+  <img src="/images/ETRI.png" style="width:80px; height:auto; margin-right:22px; flex-shrink:0;">
   <div style="flex:1;">
     Senior Researcher, Media Research Division, ETRI
     <ul style="margin:6px 0 0 0;">
