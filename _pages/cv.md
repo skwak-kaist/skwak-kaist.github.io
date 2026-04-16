@@ -13,26 +13,54 @@ A PDF version of my full CV is available [here]({{ base_path }}/files/Curriculum
 
 Education
 ======
-* **Ph.D. in Electrical Engineering**, KAIST, Mar. 2021 – Feb. 2026
-  * Thesis: *4D Scene Reconstruction based on Dynamic 3D Gaussian Splatting using Global-to-Local Motion Decomposition*
-  * Advisor: Prof. Munchurl Kim
-  * GPA: 4.01 / 4.3
-* **M.S. in Electrical Engineering**, KAIST, Mar. 2012 – Feb. 2014
-  * Thesis: *An Extended Least Difference Greedy Clique-Cover Algorithm for Index Coding*
-  * Advisor: Prof. Youngchul Sung
-  * GPA: 3.98 / 4.3
-* **B.S. in Electrical and Electronic Engineering**, Yonsei University, Mar. 2008 – Feb. 2012
-  * National Science & Engineering Scholarship (Full tuition, 4 years)
-  * GPA: 3.57 / 4.3
+
+<div style="display:flex; align-items:flex-start; margin-bottom:14px;">
+  <div style="flex:1;">
+    <b>Ph.D. in Electrical Engineering</b>, KAIST
+    <ul style="margin:4px 0 0 0;">
+      <li>Thesis: <i>4D Scene Reconstruction based on Dynamic 3D Gaussian Splatting using Global-to-Local Motion Decomposition</i></li>
+      <li>Advisor: Prof. Munchurl Kim</li>
+      <li>GPA: 4.01 / 4.3</li>
+    </ul>
+  </div>
+  <div style="text-align:right; white-space:nowrap; color:#555;">Mar. 2021 &ndash; Feb. 2026</div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:14px;">
+  <div style="flex:1;">
+    <b>M.S. in Electrical Engineering</b>, KAIST
+    <ul style="margin:4px 0 0 0;">
+      <li>Thesis: <i>An Extended Least Difference Greedy Clique-Cover Algorithm for Index Coding</i></li>
+      <li>Advisor: Prof. Youngchul Sung</li>
+      <li>GPA: 3.98 / 4.3</li>
+    </ul>
+  </div>
+  <div style="text-align:right; white-space:nowrap; color:#555;">Mar. 2012 &ndash; Feb. 2014</div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:14px;">
+  <div style="flex:1;">
+    <b>B.S. in Electrical and Electronic Engineering</b>, Yonsei University
+    <ul style="margin:4px 0 0 0;">
+      <li>National Science &amp; Engineering Scholarship (Full tuition, 4 years)</li>
+      <li>GPA: 3.57 / 4.3</li>
+    </ul>
+  </div>
+  <div style="text-align:right; white-space:nowrap; color:#555;">Mar. 2008 &ndash; Feb. 2012</div>
+</div>
 
 Research Experience
 ======
-* **Senior Researcher**, Media Research Division, ETRI, Mar. 2014 – Present
+
+<div style="display:flex; align-items:center; margin-bottom:14px;">
+  <div style="flex:1;"><b>Senior Researcher</b>, Media Research Division, ETRI</div>
+  <div style="text-align:right; white-space:nowrap; color:#555;">Mar. 2014 &ndash; Present</div>
+</div>
 
 Research Interests
 ======
-Immersive video and computer vision applications, including:
-3D/4D scene representation, novel view synthesis, video coding for machines.
+**Immersive video and computer vision applications**, including:
+<br>3D/4D scene representation, novel view synthesis, video coding for machines.
 
 Publications
 ======
