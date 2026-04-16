@@ -122,6 +122,9 @@ Selected Publications
     <div style="font-weight:600;">Feature-Guided Machine-Centric Image Coding for Downstream Tasks</div>
     <div style="font-size:0.9em;"><b>S. Kwak</b>, J. Yun, H. Choo, M. Kim</div>
     <div style="font-size:0.9em; font-weight:700;"><i>IEEE ICMEW</i>, 2023</div>
+    <div style="font-size:0.85em; margin-top:6px;">
+      📄 <a href="https://ieeexplore.ieee.org/document/10222720">Paper</a>
+    </div>
   </div>
 </div>
 
