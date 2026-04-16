@@ -34,6 +34,25 @@ Research Interests
 Immersive video and computer vision applications, including:
 3D/4D scene representation, novel view synthesis, video coding for machines.
 
+Publications
+======
+
+{% for category in site.publication_category %}
+  <h3>{{ category[1].title }}</h3>
+  <ul>{% for post in site.publications reversed %}
+    {% if post.category == category[0] %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}</ul>
+{% endfor %}
+
+Awards & Honors
+======
+* Outstanding Paper Award, Korean Institute of Broadcast and Media Engineers (KIBME) Summer Conference, 2022
+* Outstanding Paper Award, Korea Information and Communication Society (KICS) Winter Conference, 2019
+* Outstanding Paper Award, International Conference on 3D Systems and Applications (3DSA), 2019
+* National Science and Technology Scholarship (Four years full tuition), Ministry of Science and Technology, Korea, 2008 – 2012
+
 Projects
 ======
 * **Spatial Computing Technologies** (Jan. 2022 – Present)
@@ -53,20 +72,6 @@ Projects
   * FTN signaling and iterative interference cancellation to improve spectral efficiency
   * Funded by ICT R&D program of MSIT/IITP
 
-Awards & Honors
-======
-* Outstanding Paper Award, Korean Institute of Broadcast and Media Engineers (KIBME) Summer Conference, 2022
-* Outstanding Paper Award, Korea Information and Communication Society (KICS) Winter Conference, 2019
-* Outstanding Paper Award, International Conference on 3D Systems and Applications (3DSA), 2019
-* National Science and Technology Scholarship (Four years full tuition), Ministry of Science and Technology, Korea, 2008 – 2012
-
-Publications
-======
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Professional Activities
 ======
 **International Standardization** (ISO/IEC JTC1/SC29 MPEG, 2019 – Present)
@@ -80,7 +85,7 @@ Selected MPEG contributions:
 * m48769, [MPEG-I Visual] Improved Triangle Colorization of RVS for ERP
 
 **Invited Talks and Exhibitions**
-* YouTube video, *"Immersive 3D video without glasses,"* ETRI IT Technology Report, Aug. 2025.
+* YouTube video, *"[Immersive 3D video without glasses](https://www.youtube.com/watch?v=uzxlxQRPT4g),"* ETRI IT Technology Report, Aug. 2025.
 * Exhibition, *"Real-time 3D video synthesis and rendering spatial computing technology,"* ETRI Conference, Jun. 2025.
 * Invited Talk, *"Novel view synthesis for various types of immersive displays,"* Optical Society of Korea Winter Conference, Dec. 2024.
 * Invited Talk & Exhibition, *"6 Degrees-of-Freedom Immersive Media Technologies,"* ETRI Conference, May 2022.

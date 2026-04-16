@@ -82,7 +82,7 @@ Selected Publications
 ======
 
 <div style="display:flex; align-items:flex-start; margin-bottom:28px;">
-  <img src="/images/morel-teaser.png" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
+  <img src="/images/morel-teaser2.png" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
   <div style="flex:1;">
     <div style="font-weight:600;">MoRel: Long-Range Flicker-Free 4D Motion Modeling Anchor Relay-based Bidirectional Blending via with Hierarchical Densification</div>
     <div style="font-size:0.9em;"><b>S. Kwak</b>*, W. Kwon*, J. Jeong, G. Kim, W.-S. Cheong, J. Oh <span style="color:#888; font-size:0.9em;">(* Equal contribution)</span></div>
