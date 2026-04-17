@@ -42,7 +42,7 @@ Education
   <div style="flex:1;">
     <b>B.S. in Electrical and Electronic Engineering</b>, Yonsei University
     <ul style="margin:4px 0 0 0;">
-      <li>National Science &amp; Engineering Scholarship (Full tuition, 4 years)</li>
+      <li>National Science &amp; Engineering Scholarship (Full tuition)</li>
       <li>GPA: 3.57 / 4.3</li>
     </ul>
   </div>
@@ -124,6 +124,7 @@ Selected MPEG contributions:
 **Reviewer**
 * IEEE Transactions on Multimedia
 * IEEE Transactions on Visualization and Computer Graphics
+* IEEE Transactions on Circuits and Systems for Video Technology
 * ACM Multimedia
 * ETRI Journal
 

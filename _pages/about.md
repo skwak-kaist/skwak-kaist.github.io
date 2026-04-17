@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Sangwoon Kwak's Personal Page"
 author_profile: true
 redirect_from:
   - /about/
@@ -20,9 +20,9 @@ My research lies at the intersection of
 <b><span style="color:#1f3a68;">immersive video</span></b> and
 <b><span style="color:#1f3a68;">computer vision</span></b>, with a focus on
 3D/4D scene representation, novel view synthesis, and video coding for
-machines (VCM). I am particularly interested in dynamic 3D Gaussian
-Splatting and learning-based methods for next-generation immersive media
-services.
+machines (VCM). I am particularly interested in efficient and
+application-friendly 3D/4D Gaussian Splatting for immersive media services
+of real-world videos.
 </div>
 
 <div style="margin-top: 12px;">You can reach me at s.kwak [at] etri.re.kr.</div>
@@ -45,7 +45,7 @@ Education
   <img src="/images/kaist.png" style="width:80px; height:auto; margin-right:22px; flex-shrink:0;">
   <div style="flex:1;">
     <span style="color:#1f3a68; font-weight:700;">M.S.</span> in Electrical Engineering, KAIST<br>
-    <span style="color:#555; font-size:0.9em;">Advisor: Prof. Youngchul Sung (<a href="https://sites.google.com/view/sisrelkaist">SISREL</a>)</span>
+    <span style="color:#555; font-size:0.9em;">Advisor: Prof. Youngchul Sung (<a href="https://sites.google.com/view/sisrelkaist">SISReL</a>)</span>
   </div>
   <div style="text-align:right; white-space:nowrap; color:#555; font-size:0.9em;">Mar. 2012 &ndash; Feb. 2014</div>
 </div>
