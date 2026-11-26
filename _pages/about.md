@@ -85,9 +85,22 @@ Selected Publications
 ======
 
 <div style="display:flex; align-items:flex-start; margin-bottom:28px;">
+  <img src="/images/phasedgs-teaser.jpg" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
+  <div style="flex:1;">
+    <div style="font-weight:600;">Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video</div>
+    <div style="font-size:0.9em;">H. Jeon&dagger;, J. Jeong, <b>S. Kwak</b>&dagger;, J. Kim, S. Kim, J. Park, W.-S. Cheong, H. Choo <span style="color:#888; font-size:0.9em;">(&dagger; Co-corresponding authors)</span></div>
+    <div style="font-size:0.9em; font-weight:700;"><i>NeurIPS</i>, 2026</div>
+    <div style="font-size:0.85em; margin-top:6px;">
+      🌐 <a href="https://oc-dev74.github.io/Phase-DGS/">Project Page</a> &nbsp;|&nbsp;
+      📄 <a href="https://arxiv.org/abs/2611.04666">arXiv</a>
+    </div>
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:28px;">
   <img src="/images/morel-teaser3.png" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
   <div style="flex:1;">
-    <div style="font-weight:600;">MoRel: Long-Range Flicker-Free 4D Motion Modeling Anchor Relay-based Bidirectional Blending via with Hierarchical Densification</div>
+    <div style="font-weight:600;">MoRel: Long-Range Flicker-Free 4D Motion Modeling via Anchor Relay-based Bidirectional Blending with Hierarchical Densification</div>
     <div style="font-size:0.9em;"><b>S. Kwak</b>*, W. Kwon*, J. Jeong, G. Kim, W.-S. Cheong, J. Oh <span style="color:#888; font-size:0.9em;">(* Equal contribution)</span></div>
     <div style="font-size:0.9em; font-weight:700;"><i>CVPR</i>, 2026
       &nbsp;<span style="color:#e67e22; font-weight:600;">⭐ Highlight</span>
@@ -102,6 +115,15 @@ Selected Publications
 </div>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:28px;">
+  <img src="/images/uicam-teaser.png" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
+  <div style="flex:1;">
+    <div style="font-weight:600;">UICAM: A Codec-Transferable Adapter for Machine-Oriented Image Compression</div>
+    <div style="font-size:0.9em;">S. Jeong, <b>S. Kwak</b>, S. Jung, H. Choo, J. Ko</div>
+    <div style="font-size:0.9em; font-weight:700;"><i>IEEE AVSS</i>, 2026</div>
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:28px;">
   <img src="/images/MoDec-teaser.png" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
   <div style="flex:1;">
     <div style="font-weight:600;">MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting</div>
@@ -112,6 +134,18 @@ Selected Publications
       📄 <a href="https://arxiv.org/abs/2501.03714">arXiv</a> &nbsp;|&nbsp;
       💻 <a href="https://github.com/skwak-kaist/MoDec-GS">Code</a> &nbsp;|&nbsp;
       🎥 <a href="https://www.youtube.com/watch?v=5L6gzc5-cw8">Video</a>
+    </div>
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:28px;">
+  <div style="width:140px; height:90px; margin-right:18px; flex-shrink:0; border:1px solid #ddd; background:#f5f5f5; display:flex; align-items:center; justify-content:center; color:#999; font-size:0.75em; text-align:center;">Figure<br>coming soon</div>
+  <div style="flex:1;">
+    <div style="font-weight:600;">Tracking-based Adaptive Temporal Resampling for Video Coding for Machines</div>
+    <div style="font-size:0.9em;">E. An, M. Kim, K. Seo, <b>S. Kwak</b>, A. Kim, S. Jung, H. Choo</div>
+    <div style="font-size:0.9em; font-weight:700;"><i>IEEE AVSS</i>, 2025</div>
+    <div style="font-size:0.85em; margin-top:6px;">
+      📄 <a href="https://doi.org/10.1109/AVSS65446.2025.11149979">Paper</a>
     </div>
   </div>
 </div>
