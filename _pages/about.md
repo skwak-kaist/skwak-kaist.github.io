@@ -167,6 +167,18 @@ Selected Publications
 </div>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:28px;">
+  <img src="/images/icip23-teaser.png" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
+  <div style="flex:1;">
+    <div style="font-weight:600;">Machine-Attention-based Video Coding for Machines</div>
+    <div style="font-size:0.9em;">Y. Lee, S. Kim, K. Yoon&dagger;, H. Lim, <b>S. Kwak</b>, H. Choo</div>
+    <div style="font-size:0.9em; font-weight:700;"><i>IEEE ICIP</i>, 2023</div>
+    <div style="font-size:0.85em; margin-top:6px;">
+      📄 <a href="https://doi.org/10.1109/ICIP49359.2023.10222037">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:28px;">
   <img src="/images/FMC-teaser.png" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
   <div style="flex:1;">
     <div style="font-weight:600;">Feature-Guided Machine-Centric Image Coding for Downstream Tasks</div>
