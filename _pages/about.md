@@ -115,8 +115,8 @@ Selected Publications
 </div>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:28px;">
-  <div style="width:140px; height:140px; margin-right:18px; flex-shrink:0; display:flex; align-items:center; justify-content:center;">
-    <img src="/images/uicam-teaser.png" style="max-width:140px; max-height:140px; width:auto; height:auto; border:1px solid #ddd;">
+  <div style="width:140px; height:110px; margin-right:18px; flex-shrink:0; display:flex; align-items:center; justify-content:center;">
+    <img src="/images/uicam-teaser.png" style="max-width:140px; max-height:110px; width:auto; height:auto; border:1px solid #ddd;">
   </div>
   <div style="flex:1;">
     <div style="font-weight:600;">UICAM: A Codec-Transferable Adapter for Machine-Oriented Image Compression</div>
@@ -148,6 +148,20 @@ Selected Publications
     <div style="font-size:0.9em; font-weight:700;"><i>IEEE AVSS</i>, 2025</div>
     <div style="font-size:0.85em; margin-top:6px;">
       📄 <a href="https://doi.org/10.1109/AVSS65446.2025.11149979">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:28px;">
+  <div style="width:140px; height:140px; margin-right:18px; flex-shrink:0; display:flex; align-items:center; justify-content:center;">
+    <img src="/images/vr24-teaser.png" style="max-width:140px; max-height:140px; width:auto; height:auto; border:1px solid #ddd;">
+  </div>
+  <div style="flex:1;">
+    <div style="font-weight:600;">Ray tracing-based construction of 3D background model for real-time stereoscopic rendering of live immersive video</div>
+    <div style="font-size:0.9em;">Y. Kim, J. Yun, J. Yun, <b>S. Kwak</b>, I. Ihm&dagger;</div>
+    <div style="font-size:0.9em; font-weight:700;"><i>Virtual Reality</i>, 2024</div>
+    <div style="font-size:0.85em; margin-top:6px;">
+      📄 <a href="https://link.springer.com/article/10.1007/s10055-023-00921-w">Paper</a>
     </div>
   </div>
 </div>
