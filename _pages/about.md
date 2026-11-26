@@ -85,7 +85,7 @@ Selected Publications
 ======
 
 <div style="display:flex; align-items:flex-start; margin-bottom:28px;">
-  <img src="/images/phasedgs-teaser.jpg" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
+  <video src="/images/phasedgs-teaser.mp4" poster="/images/phasedgs-teaser-poster.jpg" autoplay muted loop playsinline style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;"></video>
   <div style="flex:1;">
     <div style="font-weight:600;">Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video</div>
     <div style="font-size:0.9em;">H. Jeon&dagger;, J. Jeong, <b>S. Kwak</b>&dagger;, J. Kim, S. Kim, J. Park, W.-S. Cheong, H. Choo <span style="color:#888; font-size:0.9em;">(&dagger; Co-corresponding authors)</span></div>
@@ -115,10 +115,12 @@ Selected Publications
 </div>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:28px;">
-  <img src="/images/uicam-teaser.png" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
+  <div style="width:140px; height:140px; margin-right:18px; flex-shrink:0; display:flex; align-items:center; justify-content:center;">
+    <img src="/images/uicam-teaser.png" style="max-width:140px; max-height:140px; width:auto; height:auto; border:1px solid #ddd;">
+  </div>
   <div style="flex:1;">
     <div style="font-weight:600;">UICAM: A Codec-Transferable Adapter for Machine-Oriented Image Compression</div>
-    <div style="font-size:0.9em;">S. Jeong, <b>S. Kwak</b>, S. Jung, H. Choo, J. Ko</div>
+    <div style="font-size:0.9em;">S. Jeong, <b>S. Kwak</b>, S. Jung, H. Choo, J. Ko&dagger;</div>
     <div style="font-size:0.9em; font-weight:700;"><i>IEEE AVSS</i>, 2026</div>
   </div>
 </div>
@@ -139,10 +141,10 @@ Selected Publications
 </div>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:28px;">
-  <div style="width:140px; height:90px; margin-right:18px; flex-shrink:0; border:1px solid #ddd; background:#f5f5f5; display:flex; align-items:center; justify-content:center; color:#999; font-size:0.75em; text-align:center;">Figure<br>coming soon</div>
+  <img src="/images/avss25-teaser.png" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
   <div style="flex:1;">
     <div style="font-weight:600;">Tracking-based Adaptive Temporal Resampling for Video Coding for Machines</div>
-    <div style="font-size:0.9em;">E. An, M. Kim, K. Seo, <b>S. Kwak</b>, A. Kim, S. Jung, H. Choo</div>
+    <div style="font-size:0.9em;">E. An, M. Kim, K. Seo&dagger;, <b>S. Kwak</b>, A. Kim, S. Jung, H. Choo</div>
     <div style="font-size:0.9em; font-weight:700;"><i>IEEE AVSS</i>, 2025</div>
     <div style="font-size:0.85em; margin-top:6px;">
       📄 <a href="https://doi.org/10.1109/AVSS65446.2025.11149979">Paper</a>
