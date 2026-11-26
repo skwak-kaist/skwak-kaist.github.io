@@ -115,8 +115,8 @@ Selected Publications
 </div>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:28px;">
-  <div style="width:140px; height:110px; margin-right:18px; flex-shrink:0; display:flex; align-items:center; justify-content:center;">
-    <img src="/images/uicam-teaser.png" style="max-width:140px; max-height:110px; width:auto; height:auto; border:1px solid #ddd;">
+  <div style="width:140px; height:105px; margin-right:18px; flex-shrink:0; display:flex; align-items:center; justify-content:center;">
+    <img src="/images/uicam-teaser.png" style="max-width:140px; max-height:105px; width:auto; height:auto; border:1px solid #ddd;">
   </div>
   <div style="flex:1;">
     <div style="font-weight:600;">UICAM: A Codec-Transferable Adapter for Machine-Oriented Image Compression</div>
@@ -153,8 +153,8 @@ Selected Publications
 </div>
 
 <div style="display:flex; align-items:flex-start; margin-bottom:28px;">
-  <div style="width:140px; height:140px; margin-right:18px; flex-shrink:0; display:flex; align-items:center; justify-content:center;">
-    <img src="/images/vr24-teaser.png" style="max-width:140px; max-height:140px; width:auto; height:auto; border:1px solid #ddd;">
+  <div style="width:140px; height:105px; margin-right:18px; flex-shrink:0; display:flex; align-items:center; justify-content:center;">
+    <img src="/images/vr24-teaser.png" style="max-width:140px; max-height:105px; width:auto; height:auto; border:1px solid #ddd;">
   </div>
   <div style="flex:1;">
     <div style="font-weight:600;">Ray tracing-based construction of 3D background model for real-time stereoscopic rendering of live immersive video</div>
