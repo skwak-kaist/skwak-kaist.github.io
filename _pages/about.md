@@ -101,7 +101,7 @@ Selected Publications
   <img src="/images/morel-teaser3.png" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
   <div style="flex:1;">
     <div style="font-weight:600;">MoRel: Long-Range Flicker-Free 4D Motion Modeling via Anchor Relay-based Bidirectional Blending with Hierarchical Densification</div>
-    <div style="font-size:0.9em;"><b>S. Kwak</b>*, W. Kwon*, J. Jeong, G. Kim, W.-S. Cheong, J. Oh <span style="color:#888; font-size:0.9em;">(* Equal contribution)</span></div>
+    <div style="font-size:0.9em;"><b>S. Kwak</b>*, W. Kwon*, J. Jeong, G. Kim, W.-S. Cheong, J. Oh&dagger; <span style="color:#888; font-size:0.9em;">(* Equal contribution, &dagger; Corresponding author)</span></div>
     <div style="font-size:0.9em; font-weight:700;"><i>CVPR</i>, 2026
       &nbsp;<span style="color:#e67e22; font-weight:600;">⭐ Highlight</span>
     </div>
@@ -127,7 +127,7 @@ Selected Publications
   <img src="/images/MoDec-teaser.png" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
   <div style="flex:1;">
     <div style="font-weight:600;">MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting</div>
-    <div style="font-size:0.9em;"><b>S. Kwak</b>, J. Kim, J. Jeong, W.-S. Cheong, J. Oh, M. Kim</div>
+    <div style="font-size:0.9em;"><b>S. Kwak</b>, J. Kim, J. Jeong, W.-S. Cheong, J. Oh&dagger;, M. Kim&dagger; <span style="color:#888; font-size:0.9em;">(&dagger; Co-corresponding authors)</span></div>
     <div style="font-size:0.9em; font-weight:700;"><i>CVPR</i>, 2025</div>
     <div style="font-size:0.85em; margin-top:6px;">
       🌐 <a href="https://kaist-viclab.github.io/MoDecGS-site/">Project Page</a> &nbsp;|&nbsp;
@@ -154,7 +154,7 @@ Selected Publications
   <img src="/images/FMC-teaser.png" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
   <div style="flex:1;">
     <div style="font-weight:600;">Feature-Guided Machine-Centric Image Coding for Downstream Tasks</div>
-    <div style="font-size:0.9em;"><b>S. Kwak</b>, J. Yun, H. Choo, M. Kim</div>
+    <div style="font-size:0.9em;"><b>S. Kwak</b>, J. Yun, H. Choo, M. Kim&dagger;</div>
     <div style="font-size:0.9em; font-weight:700;"><i>IEEE ICMEW</i>, 2023</div>
     <div style="font-size:0.85em; margin-top:6px;">
       📄 <a href="https://ieeexplore.ieee.org/document/10222720">Paper</a>
@@ -166,7 +166,7 @@ Selected Publications
   <img src="/images/ETRIJ.png" style="width:140px; height:auto; margin-right:18px; flex-shrink:0; border:1px solid #ddd;">
   <div style="flex:1;">
     <div style="font-weight:600;">View Synthesis with Sparse Light Field for 6DoF Immersive Video</div>
-    <div style="font-size:0.9em;"><b>S. Kwak</b>, J. Yun, J.-Y. Jeong, Y. Kim, I. Ihm, W.-S. Cheong, J. Seo</div>
+    <div style="font-size:0.9em;"><b>S. Kwak</b>, J. Yun&dagger;, J.-Y. Jeong, Y. Kim, I. Ihm, W.-S. Cheong, J. Seo</div>
     <div style="font-size:0.9em; font-weight:700;"><i>ETRI Journal</i>, 2022</div>
     <div style="font-size:0.85em; margin-top:6px;">
       🎥 <a href="https://www.youtube.com/watch?v=GlxDzBjNrI0&feature=youtu.be">Video</a>
